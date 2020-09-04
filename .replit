@@ -1,1 +1,2 @@
 run = "python3 -m pytest src/main.py"
+language = "python"

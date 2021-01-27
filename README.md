@@ -1,6 +1,6 @@
 # DNA Transcription and Translation Kata
 
-![](https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/transcription-vs-translation-worksheet-323080.jpg)
+![](/dna_diagram.png)
 
 This is a bioinformatics-related code kata designed for practicing test-driven development in tasks that involve data processing.
 

@@ -1,2 +1,0 @@
-run = "mypy src/main.py && python3 -m pytest src/main.py"
-language = "python3"
